@@ -6,5 +6,5 @@ IEEE Xplore is a digital library provided by the Institute of Electrical and Ele
 ## Description
 This enables them to go through research paper findings from papers that are too lengthy and get a overview of the a research paper if they lack prior knowledge and find it hard to recognize relevant sections in the base papers.
 ## Tech Stack
-MapReduce Text Summarization Using LangChain
-streamlit(build the app)
+* MapReduce Text Summarization Using LangChain
+* streamlit(build the app)
